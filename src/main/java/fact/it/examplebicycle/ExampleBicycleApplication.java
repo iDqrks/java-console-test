@@ -31,11 +31,6 @@ public class ExampleBicycleApplication {
         System.out.println("Full name: " + student.getFullName());
         System.out.println("Email: " + student.getEmailAddress());
 
-
         System.exit(0);
-
-
-
     }
-
 }
